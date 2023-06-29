@@ -1,11 +1,11 @@
 import type { AppInfo } from '@/types/app'
-export const APP_ID = ''
-export const API_KEY = ''
+export const APP_ID = '500a99e5-1482-443e-812d-482e67a45f43'
+export const API_KEY = 'app-Z0jbqfS9S8Evd3ZcwFHIinLD'
 export const API_URL = ''
 export const APP_INFO: AppInfo = {
-  title: 'Chat APP',
-  description: '',
-  copyright: '',
+  title: '只因AI',
+  description: '你的专属AI助手❤️',
+  copyright: '只因云',
   privacy_policy: '',
   default_language: 'zh-Hans',
 }
